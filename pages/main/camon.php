@@ -1,0 +1,1 @@
+<p style="text-align: center; margin: 190px 0; font-weight: bolder; font-size: 20px;">Cảm ơn bạn đã mua hàng ,chúng tôi sẽ liên hệ bạn trong thời gian sớm nhất</p>

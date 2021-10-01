@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+  }
+
+  .col {
+    text-align: center;
+    background-color: #ffff;
+    background-clip: content-box;
+    margin-top: 8px;
+    margin-bottom: 8px;
+  }
+
+  .title-name {
+    margin-top: 100px;
+    text-align: center;
+    margin-bottom: 50px;
+  }
